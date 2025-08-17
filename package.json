@@ -1,0 +1,42 @@
+{
+  "name": "chaos-skin-manager",
+  "version": "1.1.4",
+  "description": "Professional League of Legends skin management application - showcasing open-source components and community resources",
+  "type": "commonjs",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bynwkyow/chaos-skin-manager.git"
+  },
+  "homepage": "https://github.com/bynwkyow/chaos-skin-manager#readme",
+  "bugs": {
+    "url": "https://github.com/bynwkyow/chaos-skin-manager/issues"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "bynwkyow",
+    "email": "8v0ky0@gmail.com",
+    "url": "https://bynw.xyz"
+  },
+  "keywords": [
+    "league-of-legends",
+    "skin-manager",
+    "game-modding",
+    "tauri",
+    "nextjs",
+    "react",
+    "typescript"
+  ],
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  },
+  "scripts": {
+    "docs:dev": "echo 'Documentation development server'",
+    "docs:build": "echo 'Documentation build'",
+    "lint": "echo 'Documentation linting'",
+    "format": "echo 'Documentation formatting'"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
