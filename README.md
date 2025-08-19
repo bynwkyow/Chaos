@@ -1,4 +1,3 @@
-# Chaos - League of Legends Skin Manager
 
 <div align="center">
   <img src="images/Square284x284Logo.png" alt="Chaos Logo" width="120" height="120" style="border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
